@@ -33,4 +33,4 @@ Numpy.
 
 #Como Executar
 
-Crie um novo projeto no VisualStudio, instale as bibliotecas e rode o codigo 
+Crie um novo projeto no VisualStudio, instale as bibliotecas e rode o codigo roof.py
