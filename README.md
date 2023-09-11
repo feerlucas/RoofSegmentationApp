@@ -30,3 +30,7 @@ Python 3.x;
 OpenCV; 
 Tkinter; 
 Numpy.
+
+#Como Executar
+
+Crie um novo projeto no VisualStudio, instale as bibliotecas e rode o codigo 
